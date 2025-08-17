@@ -3,7 +3,7 @@
 ## Objective
 - Understand the structure and requirements of machine translation datasets.
 - Preprocess bilingual corpora for training.
-- Apply fine-tuning on a lightweight LLM-based model (opus-mt-en-ar) for English-toArabic translation.
+- Apply fine-tuning on a lightweight LLM-based model (opus-mt-en-ar) for English-to-Arabic translation.
 - Evaluate translation quality using BLEU and example comparisons.
 - Deliver an end-to-end Jupyter Notebook with clear documentation.
 
