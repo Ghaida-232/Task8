@@ -197,8 +197,7 @@ Task8/
 │ └── train.json
 │ └── val.json
 │
-├── notebooks/
-│ └── multilingual_translation.ipynb # full notebook
+├── multilingual_translation.ipynb # full notebook
 │
 ├── outputs/
 │ └── translated_texts.json # model predictions
